@@ -219,13 +219,14 @@ When an already on-boarded user starts the application, she is given a list view
 
 Selecting an image item allows her to view and edit the item's image, description, or signs. To drill down further to details for each sign, she selects a sign from the two-line list.
 
----
-
-## Sign items
+##### Sign items
 
 In viewing sign details, she can add or edit her hints or media of the sign.
 
-Reflection
+---
+
+##Reflection
+
 During this project I fully immersed myself in every aspect of the design sprint process and used it to drive the design of a user experience, from concept to working prototype. It was an opportunity to apply design thinking principles in practice, and use insights from user research and testing to challenge and inform each iteration of design. 
 
 I made mistakes and learned many lessons along the way in each phase, but perhaps the most exciting discovery I made was during testing. I found that allowing time after a test session to openly discuss with the participant and follow up with any questions I had as an observer proved to be invaluable. Paired directly with testing my assumptions, having that dialogue not only helped in better understanding a user's motivations but also gain further insight I otherwise would have missed out on.
